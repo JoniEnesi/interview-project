@@ -29,6 +29,10 @@ h1, h2, h3, h4, h5, h6, p, a{
     z-index: 100;
 }
 
+.frame-display{
+    display: none;
+}
+
 .navbar{
     display: flex;
     align-items: center;
